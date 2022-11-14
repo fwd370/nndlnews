@@ -4,3 +4,4 @@
 /share
 pyvenv.cfg
 /files/*/*.pt
+/files/*/wandb

@@ -355,7 +355,7 @@ def main(LR,N_EPOCHS, runID,HID_DIM,N_LAYERS,ENC_EMB_DIM, DEC_EMB_DIM,ENC_DROPOU
             if updateLR:
                 updatedLR = LR - epoch*(LR/N_EPOCHS)
                 for grp in optim.param_groups:
-                    g['lr'] = updatedLR
+                    grp['lr'] = updatedLR
             start_time = time.time()
             train_loss = train(model, train_loader, optimizer, criterion, CLIP)
             valid_loss = evaluate(model, eval_loader, criterion)
@@ -363,16 +363,6 @@ def main(LR,N_EPOCHS, runID,HID_DIM,N_LAYERS,ENC_EMB_DIM, DEC_EMB_DIM,ENC_DROPOU
             end_time = time.time()
 
             epoch_mins, epoch_secs = epoch_time(start_time, end_time)
-
-            if valid_loss < best_valid_loss:
-                best_valid_loss = valid_loss
-                torch.save(model.state_dict(), 'gru_model.pt')
-                curr_data['valid_loss'] = f'{best_valid_loss:.3f}'
-                curr_data['valid_ppl'] = f'{math.exp(best_valid_loss):7.3f}'
-                curr_data['runID'] = runID
-                with open('curr_valid_loss.json','w') as jfile:
-                    json.dump(curr_data,jfile,indent=6)
-                jfile.close()
 
             if USE_WANDB:
                 wandb.log({'epoch':epoch,'learning-rate':LR, 'train-loss':train_loss, 'train-ppl':math.exp(train_loss),'valid-loss':valid_loss, 'valid-ppl':math.exp(valid_loss)})
