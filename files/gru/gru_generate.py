@@ -221,7 +221,7 @@ def train(model, iterator, optimizer, criterion, clip):
 
         loss = criterion(output, trg)
         
-        if i%500==0:
+        if i%50==0:
             print(f'[Step] Train Loss: {loss:.3f} | Train PPL: {math.exp(loss):7.3f}')
 
         loss.backward()
