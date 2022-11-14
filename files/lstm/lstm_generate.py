@@ -3,6 +3,7 @@ import pandas as pd
 import nltk
 import random
 import time
+import datetime
 from sklearn.model_selection import train_test_split
 import torch.nn as nn
 import torch
@@ -14,12 +15,12 @@ import argparse
 import json
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
+USE_WANDB = True
 
 def read_data(file='Data.csv'):
     word2index = {}
     index2word = {}
-    data = pd.read_csv('../data/' + file)
+    data = pd.read_csv('../../data/' + file)
     summarys = []
     contents = []
     for i, row in data.iterrows():
@@ -80,7 +81,7 @@ class AINLPDecoder(nn.Module):
 
         self.dropout = nn.Dropout(dropout).to(device)
 
-    def forward(self, input, hidden):
+    def forward(self, input, hidden,cell):
         input = input.unsqueeze(0)
 
         embedded = self.dropout(self.embedding(input))
@@ -152,19 +153,12 @@ class CuDataset(Dataset):
         return len(self.sources)
 
 
-def init_model(word2index, device):
+def init_model(word2index, device,HID_DIM,N_LAYERS,ENC_EMB_DIM,DEC_EMB_DIM,ENC_DROPOUT,DEC_DROPOUT):
     INPUT_DIM = len(word2index)
     OUTPUT_DIM = len(word2index)
-    ENC_EMB_DIM = 256
-    DEC_EMB_DIM = 256
-    HID_DIM = 512
-    N_LAYERS = 2
-    ENC_DROPOUT = 0.5
-    DEC_DROPOUT = 0.5
 
     enc = AINLPEncoder(INPUT_DIM, ENC_EMB_DIM, HID_DIM, N_LAYERS, ENC_DROPOUT)
     dec = AINLPDecoder(OUTPUT_DIM, DEC_EMB_DIM, HID_DIM, N_LAYERS, DEC_DROPOUT)
-
     model = AINLPSeq2Seq(enc, dec, device).to(device)
     return model
 
@@ -324,13 +318,12 @@ def compute_rouge(decoded_preds, decoded_labels):
     return result
 
 
-def main():
+def main(LR,N_EPOCHS,runID,HID_DIM,N_LAYERS,ENC_EMB_DIM,DEC_EMB_DIM,ENC_DROPOUT,DEC_DROPOUT,BATCH_SIZE,CLIP,SEED,updateLR):
     with open('curr_valid_loss.json', 'r') as jfile:
         curr_data = json.load(jfile)
     jfile.close()
-    best_valid_loss = curr_data['valid_loss']
+    best_valid_loss = float(curr_data['valid_loss'])
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    SEED = 1234
 
     random.seed(SEED)
     np.random.seed(SEED)
@@ -347,21 +340,21 @@ def main():
                                                                                 random_state=43)
     train_dataset = CuDataset(train_sources, train_targets)
     val_dataset = CuDataset(test_sources, test_targets)
-    batch_size = 2
-    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
-    eval_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False)
+    train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True)
+    eval_loader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
-    model = init_model(word2index, device)
+    model = init_model(word2index, device,HID_DIM,N_LAYERS,ENC_EMB_DIM,DEC_EMB_DIM,ENC_DROPOUT,DEC_DROPOUT)
     model.apply(init_weights)
-    optimizer = optim.Adam(model.parameters())
+    optimizer = optim.Adam(model.parameters(),lr=LR)
     criterion = nn.CrossEntropyLoss(ignore_index=word2index['PAD'])
     if trainFlag:
-        N_EPOCHS = 10
-        CLIP = 1
+        wallStart = datetime.datetime.now().replace(microsecond=0)
         for epoch in range(N_EPOCHS):
-
+            if updateLR:
+                updatedLR=LR-epoch*(LR/N_EPOCHS)
+                for grp in optim.param_groups:
+                    grp["lr"] = updatedLR
             start_time = time.time()
-
             train_loss = train(model, train_loader, optimizer, criterion, CLIP)
             valid_loss = evaluate(model, eval_loader, criterion)
 
@@ -369,9 +362,8 @@ def main():
 
             epoch_mins, epoch_secs = epoch_time(start_time, end_time)
 
-            if valid_loss < best_valid_loss:
-                best_valid_loss = valid_loss
-                torch.save(model.state_dict(), 'gru_model.pt')
+            if USE_WANDB:
+                wandb.log({'epoch':epoch,'learning-rate':LR,'train-loss':train_loss,'train-ppl':math.exp(train_loss),'valid-loss':valid_loss,'valid-ppl':math.exp(valid_loss)})
 
             print(f'Epoch: {epoch + 1:02} | Time: {epoch_mins}m {epoch_secs}s')
             print(
@@ -381,6 +373,59 @@ def main():
                 f'[Epoch] Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}'
             )
 
+        curr_data['runtime']= str(datetime.datetime.now().replace(microsecond=0)-wallStart)
+        
+        if valid_loss<best_valid_loss:
+            best_valid_loss=valid_loss
+            torch.save(model.state_dict(),'lstm_model.pt')
+            curr_data['valid_loss']=f'{best_valid_loss:.3f}'
+            curr_data['valid_ppl']=f'{math.exp(best_valid_loss):7.3f}'
+            curr_data['runID']=runID
+            with open('curr_valid_loss.json','w') as jfile:
+                json.dump(curr_data,jfile,indent=6)
+            jfile.close()
+
+        with open('training_results.json','r+') as outfile:
+            filedata=json.load(outfile)
+            filedata['run_details'].append(curr_data)
+            outfile.seek(0)
+            json.dump(filedata,outfile,indent=4)
+        outfile.close()
+
 
 if __name__ == "__main__":
-    main()
+    parser=argparse.ArgumentParser(description="Tuning LSTM")
+    parser.add_argument('--lr',type=float,default=0.001,required=False)
+    parser.add_argument('--epoch',type=int,default=10, required=False)
+    parser.add_argument('--run',type=int, required=True)
+    parser.add_argument('--h_dim',type=int,default=512, required=False)
+    parser.add_argument('--n-layers',type=int,default=2, required=False)
+    parser.add_argument('--enc-dim',type=int,default=256, required=False)
+    parser.add_argument('--dec-dim',type=int,default=256, required=False)
+    parser.add_argument('--enc-dropout',type=float,default=0.5, required=False)
+    parser.add_argument('--dec-dropout',type=float,default=0.5, required=False)
+    parser.add_argument('--bs',type=int,default=2,required=False)
+    parser.add_argument('--clip',type=float,default=1.0,required=False)
+    parser.add_argument('--seed',type=int,default=1234,required=False)
+    parser.add_argument('--update-lr',type=bool, default=False, required=False)
+    
+    args = parser.parse_args()
+    kwargs ={'LR': args.lr,
+            'N_EPOCHS': args.epoch,
+            'runID': args.run,
+            'HID_DIM': args.h_dim,
+            'N_LAYERS': args.n_layers,
+            'ENC_EMB_DIM': args.enc_dim,
+            'DEC_EMB_DIM': args.dec_dim,
+            'ENC_DROPOUT': args.enc_dropout,
+            'DEC_DROPOUT': args.dec_dropout,
+            'BATCH_SIZE': args.bs,
+            'CLIP': args.clip,
+            'SEED': args.seed,
+            'updateLR':args.update_lr
+            }
+
+    if USE_WANDB:
+        import wandb
+        wandb.init(project='nndl-news', config ={'algo':'LSTM', 'direction':'Uni', **kwargs})
+    main(**kwargs)
