@@ -398,7 +398,7 @@ if __name__ == "__main__":
     parser.add_argument('--lr',type=float,default=0.001, required=False)
     parser.add_argument('--epoch',type=int,default=10, required=False)
     parser.add_argument('--run',type=int, required=True)
-    parser.add_argument('--h_dim',type=int,default=512, required=False)
+    parser.add_argument('--h-dim',type=int,default=512, required=False)
     parser.add_argument('--n-layers',type=int,default=2, required=False)
     parser.add_argument('--enc-dim',type=int,default=256, required=False)
     parser.add_argument('--dec-dim',type=int,default=256, required=False)

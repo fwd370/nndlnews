@@ -1,0 +1,6 @@
+{
+      "valid_loss": "1e9",
+      "valid_ppl": "1e9",
+      "runID": 0,
+      "runtime": "0:11:43"
+}

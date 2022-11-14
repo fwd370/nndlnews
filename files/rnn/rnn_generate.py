@@ -3,6 +3,7 @@ import pandas as pd
 import nltk
 import random
 import time
+import datetime
 from sklearn.model_selection import train_test_split
 import torch.nn as nn
 import torch
@@ -15,11 +16,12 @@ import json
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
+USE_WANDB = True
 
 def read_data(file='Data.csv'):
     word2index = {}
     index2word = {}
-    data = pd.read_csv('../data/' + file)
+    data = pd.read_csv('../../data/' + file)
     summarys = []
     contents = []
     for i, row in data.iterrows():
@@ -328,7 +330,7 @@ def main():
     with open('curr_valid_loss.json', 'r') as jfile:
         curr_data = json.load(jfile)
     jfile.close()
-    best_valid_loss = curr_data['valid_loss']
+    best_valid_loss = float(curr_data['valid_loss'])
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     SEED = 1234
 
