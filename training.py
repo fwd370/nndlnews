@@ -62,6 +62,16 @@ def processString(text: str):
 
     return text
 
+def readRawDataAndVocab():
+    print("Retrieving data...")
+    vocab = Vocabulary()
+    data = []
+    collated_df = pd.read_csv("data/rawData.csv")
+    print(f"Total number of data rows: {len(collated_df.index)}")
+    
+    for index, row in collated_df.iterrows():
+        text = row["text"]
+
 def dataTo():
     pass
 
