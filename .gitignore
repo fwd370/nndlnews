@@ -6,3 +6,4 @@ pyvenv.cfg
 /files/*/*.pt
 /files/*/wandb/*
 /files/*/nohup.out
+.ipynb_checkpoints/*
