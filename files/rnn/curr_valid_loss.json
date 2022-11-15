@@ -1,6 +1,6 @@
 {
-      "valid_loss": "7.717",
-      "valid_ppl": "2247.191",
-      "runID": 1118,
-      "runtime": "0:07:44"
+      "valid_loss": "7.448",
+      "valid_ppl": "1716.727",
+      "runID": 1216,
+      "runtime": "0:13:49"
 }
