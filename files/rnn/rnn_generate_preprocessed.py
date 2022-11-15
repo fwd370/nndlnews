@@ -375,7 +375,7 @@ def main(LR,N_EPOCHS,runID,HID_DIM,N_LAYERS,ENC_EMB_DIM,DEC_EMB_DIM,ENC_DROPOUT,
     trainFlag = True
     generateFlag = False
 
-    contents, summarys, word2index, index2word = read_data()
+    contents, summarys, word2index, index2word = read_data(3)
     sources, targets = pad_data(contents, summarys, word2index)
     train_sources, test_sources, train_targets, test_targets = train_test_split(sources, targets, test_size=0.1,
                                                                                 random_state=43)

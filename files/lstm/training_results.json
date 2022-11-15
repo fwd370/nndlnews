@@ -257,6 +257,12 @@
             "valid_ppl": "3828.634",
             "runID": 542,
             "runtime": "0:50:35"
+        },
+        {
+            "valid_loss": "8.038",
+            "valid_ppl": "3094.976",
+            "runID": 500,
+            "runtime": "0:04:52"
         }
     ]
 }

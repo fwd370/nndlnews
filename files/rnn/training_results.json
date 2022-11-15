@@ -215,6 +215,42 @@
             "valid_ppl": "4661.764",
             "runID": 1044,
             "runtime": "1:18:21"
+        },
+        {
+            "valid_loss": "8.447",
+            "valid_ppl": "4661.764",
+            "runID": 1044,
+            "runtime": "0:45:31"
+        },
+        {
+            "valid_loss": "8.447",
+            "valid_ppl": "4661.764",
+            "runID": 1044,
+            "runtime": "0:44:54"
+        },
+        {
+            "valid_loss": "8.447",
+            "valid_ppl": "4661.764",
+            "runID": 1044,
+            "runtime": "0:31:16"
+        },
+        {
+            "valid_loss": "8.447",
+            "valid_ppl": "4661.764",
+            "runID": 1044,
+            "runtime": "0:32:20"
+        },
+        {
+            "valid_loss": "8.447",
+            "valid_ppl": "4661.764",
+            "runID": 1044,
+            "runtime": "0:41:06"
+        },
+        {
+            "valid_loss": "8.447",
+            "valid_ppl": "4661.764",
+            "runID": 1044,
+            "runtime": "0:41:52"
         }
     ]
 }

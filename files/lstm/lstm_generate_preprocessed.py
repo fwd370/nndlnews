@@ -19,7 +19,7 @@ import argparse
 import json
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-USE_WANDB = False
+USE_WANDB = True
 BOS_token = 0
 EOS_token = 1
 UNK_token = 2
@@ -375,7 +375,7 @@ def main(LR,N_EPOCHS,runID,HID_DIM,N_LAYERS,ENC_EMB_DIM,DEC_EMB_DIM,ENC_DROPOUT,
     trainFlag = True
     generateFlag = False
 
-    contents, summarys, word2index, index2word = read_data()
+    contents, summarys, word2index, index2word = read_data(3)
     sources, targets = pad_data(contents, summarys, word2index)
     train_sources, test_sources, train_targets, test_targets = train_test_split(sources, targets, test_size=0.1,
                                                                                 random_state=43)
@@ -468,5 +468,5 @@ if __name__ == "__main__":
 
     if USE_WANDB:
         import wandb
-        wandb.init(project='nndl-news', config ={'algo':'LSTM', 'direction':'Uni', **kwargs})
+        wandb.init(project='nndl-news', config ={'algo':'LSTM_PP', 'direction':'Uni', **kwargs})
     main(**kwargs)
