@@ -17,8 +17,6 @@ import json
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 USE_WANDB = True
 
-USE_WANDB = True
-
 def read_data(file='Data.csv'):
     word2index = {}
     index2word = {}
