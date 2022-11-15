@@ -1,0 +1,2541 @@
+9runT.sh: 3: /: Permission denied
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 32
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 32
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 64
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 64
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 128
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 128
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 256
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 256
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 512
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 512
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 1024
+usage: rnn_generate.py [-h] [--lr LR] [--epoch EPOCH] --run RUN
+                       [--h_dim H_DIM] [--n-layers N_LAYERS]
+                       [--enc-dim ENC_DIM] [--dec-dim DEC_DIM]
+                       [--enc-dropout ENC_DROPOUT] [--dec-dropout DEC_DROPOUT]
+                       [--bs BS] [--clip CLIP] [--seed SEED]
+                       [--update-lr UPDATE_LR]
+rnn_generate.py: error: unrecognized arguments: --h-dim 1024
+nohup: missing operand
+Try 'nohup --help' for more information.
+nohup: missing operand
+Try 'nohup --help' for more information.
+9runT.sh: 3: /: Permission denied
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121807-155hqo8o
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121807-1pxn6cg3
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run quiet-totem-111
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/155hqo8o
+wandb: Syncing run magic-morning-111
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1pxn6cg3
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121807-2rp3nrri
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run brisk-glade-112
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2rp3nrri
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121807-149us78a
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run polar-shadow-113
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/149us78a
+wandb: Tracking run with wandb version 0.13.5
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121807-2txt5w8u
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121807-87k3sm1m
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run royal-resonance-114
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: Syncing run hopeful-wave-114
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2txt5w8u
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/87k3sm1m
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_121808-exqjwypy
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run ethereal-vortex-116
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/exqjwypy
+wandb: Waiting for W&B process to finish... (success).
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.027 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▃▃▂▂▂▂▁▁
+wandb:     train-ppl █▂▂▂▂▂▂▁▁▁
+wandb:    valid-loss ▁▃▅▄▄▇▇███
+wandb:     valid-ppl ▁▃▄▃▄▆▇███
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 7.13245
+wandb:     train-ppl 1251.93755
+wandb:    valid-loss 8.78773
+wandb:     valid-ppl 6553.36638
+wandb: 
+wandb: Synced ethereal-vortex-116: https://wandb.ai/fengwd/nndl-news/runs/exqjwypy
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121808-exqjwypy/logs
+wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: - 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▂▂▂▁▁▁▁▁
+wandb:     train-ppl █▂▂▁▁▁▁▁▁▁
+wandb:    valid-loss ▁▂▂▃▄▅▆▆▇█
+wandb:     valid-ppl ▁▂▂▃▄▅▅▆▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 7.07914
+wandb:     train-ppl 1186.94971
+wandb:    valid-loss 8.41288
+wandb:     valid-ppl 4504.72052
+wandb: 
+wandb: Synced royal-resonance-114: https://wandb.ai/fengwd/nndl-news/runs/2txt5w8u
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121807-2txt5w8u/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_124128-3jh6pwm1
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fallen-fog-117
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3jh6pwm1
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_124129-242wpnzr
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fresh-violet-118
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/242wpnzr
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▂▁▂▄█▇▇█▇▇
+wandb:     train-ppl ▂▁▂▃█▇▇▇▆▇
+wandb:    valid-loss ▇▁▃▆█▅▆▄▅▄
+wandb:     valid-ppl ▆▁▂▅█▃▅▃▃▃
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.69835
+wandb:     train-ppl 120373.1403
+wandb:    valid-loss 11.97647
+wandb:     valid-ppl 158970.51772
+wandb: 
+wandb: Synced hopeful-wave-114: https://wandb.ai/fengwd/nndl-news/runs/87k3sm1m
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121807-87k3sm1m/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_130323-g7tr0pq9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run mild-vortex-119
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/g7tr0pq9
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁█▇▇█▆▆▇█▆
+wandb:     train-ppl ▁█▆▆█▅▆▆█▅
+wandb:    valid-loss ▆▆▃▁▂▁▅▂█▂
+wandb:     valid-ppl ▅▅▃▁▂▁▄▂█▂
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.44926
+wandb:     train-ppl 93831.67297
+wandb:    valid-loss 11.85551
+wandb:     valid-ppl 140858.06906
+wandb: 
+wandb: Synced quiet-totem-111: https://wandb.ai/fengwd/nndl-news/runs/155hqo8o
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121807-155hqo8o/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_130358-3bgcc9xq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run swift-glade-120
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3bgcc9xq
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▃▂▂▂▂▁▁▁
+wandb:     train-ppl █▂▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▂▃▃▄▆▆▇▇█
+wandb:     valid-ppl ▁▂▃▃▄▅▅▇▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.83509
+wandb:     train-ppl 929.91134
+wandb:    valid-loss 8.427
+wandb:     valid-ppl 4568.78764
+wandb: 
+wandb: Synced fresh-violet-118: https://wandb.ai/fengwd/nndl-news/runs/242wpnzr
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_124129-242wpnzr/logs
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▃▂▂▂▁▁
+wandb:     train-ppl █▃▂▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▂▂▅▆▅▆▆█▇
+wandb:     valid-ppl ▁▁▂▄▅▄▅▅█▇
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 7.21252
+wandb:     train-ppl 1356.31244
+wandb:    valid-loss 9.14221
+wandb:     valid-ppl 9341.39273
+wandb: 
+wandb: Synced fallen-fog-117: https://wandb.ai/fengwd/nndl-news/runs/3jh6pwm1
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_124128-3jh6pwm1/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_130639-10acmr21
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run laced-flower-121
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/10acmr21
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_130643-2pzbas0l
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run sparkling-eon-122
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2pzbas0l
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▂▆▇▇▇▇▇██
+wandb:     train-ppl ▁▂▅▇▆▆▆▇█▇
+wandb:    valid-loss ▁▇▇▆▆▅▇▆█▆
+wandb:     valid-ppl ▁▆▆▆▅▄▆▅█▅
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.88949
+wandb:     train-ppl 145727.56402
+wandb:    valid-loss 11.88221
+wandb:     valid-ppl 144669.26686
+wandb: 
+wandb: Synced magic-morning-111: https://wandb.ai/fengwd/nndl-news/runs/1pxn6cg3
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121807-1pxn6cg3/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_130948-wo4sm386
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run copper-durian-123
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/wo4sm386
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▇▁▄▇▃▇██▇█
+wandb:     train-ppl ▆▁▃▇▃▆██▆█
+wandb:    valid-loss ▁▁▆███▇██▇
+wandb:     valid-ppl ▁▁▅▇▇█▆▇▇▇
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.23029
+wandb:     train-ppl 75379.63723
+wandb:    valid-loss 11.86074
+wandb:     valid-ppl 141597.06483
+wandb: 
+wandb: Synced polar-shadow-113: https://wandb.ai/fengwd/nndl-news/runs/149us78a
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121807-149us78a/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Waiting for W&B process to finish... (success).
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_131022-3o4cq77c
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run autumn-lion-124
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3o4cq77c
+wandb: - 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▂▂▂▁▁▁
+wandb:     train-ppl █▃▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▃▄▅▅▆▇▇██
+wandb:     valid-ppl ▁▂▃▄▄▅▆▇██
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.69745
+wandb:     train-ppl 810.33834
+wandb:    valid-loss 9.28307
+wandb:     valid-ppl 10754.43237
+wandb: 
+wandb: Synced brisk-glade-112: https://wandb.ai/fengwd/nndl-news/runs/2rp3nrri
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_121807-2rp3nrri/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_131034-3mrs36lx
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run prime-sun-125
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3mrs36lx
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: | 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▄▃▂▂▂▁▁▁
+wandb:     train-ppl █▃▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▂▃▄▅▆▆▇▇█
+wandb:     valid-ppl ▁▂▂▃▄▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.45829
+wandb:     train-ppl 637.97195
+wandb:    valid-loss 8.88932
+wandb:     valid-ppl 7254.09624
+wandb: 
+wandb: Synced prime-sun-125: https://wandb.ai/fengwd/nndl-news/runs/3mrs36lx
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_131034-3mrs36lx/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_132844-ciouxl26
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run likely-music-127
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/ciouxl26
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▄▃▃▂▂▂▁▁
+wandb:     train-ppl █▃▂▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▂▂▃▄▅▆▆▇█
+wandb:     valid-ppl ▁▂▂▃▄▄▅▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.50875
+wandb:     train-ppl 670.98965
+wandb:    valid-loss 8.64926
+wandb:     valid-ppl 5705.90174
+wandb: 
+wandb: Synced laced-flower-121: https://wandb.ai/fengwd/nndl-news/runs/10acmr21
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_130639-10acmr21/logs
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: - 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_133616-3u0enpip
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run skilled-water-128
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3u0enpip
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▄▄▃▂▂▁▁▁
+wandb:     train-ppl █▂▃▃▂▂▂▁▁▁
+wandb:    valid-loss ▁▆▇██▇▆▅▇█
+wandb:     valid-ppl ▁▅▆██▇▅▄▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 7.86939
+wandb:     train-ppl 2615.97256
+wandb:    valid-loss 9.53873
+wandb:     valid-ppl 13887.32821
+wandb: 
+wandb: Synced sparkling-eon-122: https://wandb.ai/fengwd/nndl-news/runs/2pzbas0l
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_130643-2pzbas0l/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_133625-1e0p3u5g
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run eager-sponge-129
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1e0p3u5g
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.012 MB uploaded (0.000 MB deduped)wandb: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▃▂▂▁▁▁
+wandb:     train-ppl █▂▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▃▃▄▅▅▆▇▇█
+wandb:     valid-ppl ▁▂▃▃▄▅▅▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.5602
+wandb:     train-ppl 706.41221
+wandb:    valid-loss 8.58202
+wandb:     valid-ppl 5334.89464
+wandb: 
+wandb: Synced likely-music-127: https://wandb.ai/fengwd/nndl-news/runs/ciouxl26
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_132844-ciouxl26/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_134001-1vl8xi3a
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run valiant-bird-130
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1vl8xi3a
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: | 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: / 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: - 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: \ 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: | 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: / 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: - 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: \ 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: | 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: / 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: - 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: \ 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: | 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: / 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▃▂▂▁▁▁
+wandb:     train-ppl █▂▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▂▄▅▄▅▆▇▇█
+wandb:     valid-ppl ▁▂▃▄▄▄▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 6.74587
+wandb:     train-ppl 850.53591
+wandb:    valid-loss 8.65373
+wandb:     valid-ppl 5731.48214
+wandb: 
+wandb: Synced valiant-bird-130: https://wandb.ai/fengwd/nndl-news/runs/1vl8xi3a
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_134001-1vl8xi3a/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_134727-1pz3w0rq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run worldly-frog-131
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1pz3w0rq
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇█████▇▇▇
+wandb:     train-ppl ▁▆▇▇███▇▇▆
+wandb:    valid-loss ▁▂▄▅▆█▄▅▆▄
+wandb:     valid-ppl ▁▂▃▃▅█▃▄▄▃
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 12.63252
+wandb:     train-ppl 306362.37904
+wandb:    valid-loss 14.09588
+wandb:     valid-ppl 1323616.13187
+wandb: 
+wandb: Synced mild-vortex-119: https://wandb.ai/fengwd/nndl-news/runs/g7tr0pq9
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_130323-g7tr0pq9/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_135216-3irkf9me
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run peachy-dawn-132
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3irkf9me
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▆██▇██▇██
+wandb:     train-ppl ▁▆██▇▇█▆█▇
+wandb:    valid-loss ▁▂▃▃▃▆▅▆▅█
+wandb:     valid-ppl ▁▁▁▂▂▄▃▅▄█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 12.86326
+wandb:     train-ppl 385869.75217
+wandb:    valid-loss 16.01907
+wandb:     valid-ppl 9057170.71011
+wandb: 
+wandb: Synced swift-glade-120: https://wandb.ai/fengwd/nndl-news/runs/3bgcc9xq
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_130358-3bgcc9xq/logs
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: / 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▂▂▂▂▁▁▁▁
+wandb:     train-ppl █▂▁▁▁▁▁▁▁▁
+wandb:    valid-loss ▁▃▅▆▆▇▇▇▇█
+wandb:     valid-ppl ▁▃▅▆▆▆▆▇▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 6.91742
+wandb:     train-ppl 1009.71522
+wandb:    valid-loss 8.44715
+wandb:     valid-ppl 4661.76438
+wandb: 
+wandb: Synced worldly-frog-131: https://wandb.ai/fengwd/nndl-news/runs/1pz3w0rq
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_134727-1pz3w0rq/logs
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_135329-gfqnc8tv
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run hardy-mountain-133
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/gfqnc8tv
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_135337-2ds0uiy1
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run neat-microwave-134
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2ds0uiy1
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: / 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▂▁▁▁▁▁▁▂
+wandb:     train-ppl █▂▁▁▁▁▁▁▁▁
+wandb:    valid-loss ▇▁▄▆▇▇▇███
+wandb:     valid-ppl ▇▁▄▅▇▇▇▇██
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 7.43204
+wandb:     train-ppl 1689.25439
+wandb:    valid-loss 8.49084
+wandb:     valid-ppl 4869.9642
+wandb: 
+wandb: Synced neat-microwave-134: https://wandb.ai/fengwd/nndl-news/runs/2ds0uiy1
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_135337-2ds0uiy1/logs
+nohup: failed to run command '[Step]': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▅▆▆▇▇██▆
+wandb:     train-ppl ▁▄▄▆▆▆▆█▇▆
+wandb:    valid-loss ▁▄▄▄▃▄▂▅▅█
+wandb:     valid-ppl ▁▂▃▂▂▃▁▄▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 10.97123
+wandb:     train-ppl 58175.84145
+wandb:    valid-loss 12.74543
+wandb:     valid-ppl 342980.60473
+wandb: 
+wandb: Synced copper-durian-123: https://wandb.ai/fengwd/nndl-news/runs/wo4sm386
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_130948-wo4sm386/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_140438-1tcgt9as
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run light-music-135
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1tcgt9as
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▇█▆▇▇███
+wandb:     train-ppl ▁▆▇█▅▆▇▇██
+wandb:    valid-loss ▆▂▁█▃▆▅▁▇▅
+wandb:     valid-ppl ▅▂▁█▃▆▅▁▆▅
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.79648
+wandb:     train-ppl 132784.6752
+wandb:    valid-loss 12.26459
+wandb:     valid-ppl 212053.08322
+wandb: 
+wandb: Synced autumn-lion-124: https://wandb.ai/fengwd/nndl-news/runs/3o4cq77c
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_131022-3o4cq77c/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_140532-3iouinag
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run light-pyramid-136
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3iouinag
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.027 MB uploaded (0.000 MB deduped)wandb: Waiting for W&B process to finish... (success).
+wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▃▃▂▂▂▁▁
+wandb:     train-ppl █▃▂▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▂▃▄▅▆▆▇▇█
+wandb:     valid-ppl ▁▂▂▃▄▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 6.49914
+wandb:     train-ppl 664.56743
+wandb:    valid-loss 9.2665
+wandb:     valid-ppl 10577.65962
+wandb: 
+wandb: Synced skilled-water-128: https://wandb.ai/fengwd/nndl-news/runs/3u0enpip
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_133616-3u0enpip/logs
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▇▇█▇▆▇▇▇▇▁
+wandb:     train-ppl ▆▆█▇▅▆▆▆▅▁
+wandb:    valid-loss ▆█▆▃█▅▇█▁▂
+wandb:     valid-ppl ▄█▃▁▇▃▅▇▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 9.47119
+wandb:     train-ppl 12980.3444
+wandb:    valid-loss 11.55912
+wandb:     valid-ppl 104727.77498
+wandb: 
+wandb: Synced eager-sponge-129: https://wandb.ai/fengwd/nndl-news/runs/1e0p3u5g
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_133625-1e0p3u5g/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_141430-1uk84q0e
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run worldly-aardvark-137
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1uk84q0e
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_141436-amkdtwg9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run feasible-firefly-138
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/amkdtwg9
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▇▇██▇▇▆▇
+wandb:     train-ppl ▁▆▇▇█▇▇▆▆▇
+wandb:    valid-loss ▁█▆▅▆▆▄▄▄▅
+wandb:     valid-ppl ▁█▅▄▄▅▃▃▂▄
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.12478
+wandb:     train-ppl 67831.20316
+wandb:    valid-loss 11.699
+wandb:     valid-ppl 120451.13746
+wandb: 
+wandb: Synced peachy-dawn-132: https://wandb.ai/fengwd/nndl-news/runs/3irkf9me
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_135216-3irkf9me/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_143647-16le1cr9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run olive-spaceship-139
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/16le1cr9
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▃▄▄▇▇▇███
+wandb:     train-ppl ▁▂▃▃▆▇▆█▇█
+wandb:    valid-loss ▁▆▅█▇▇▆▇▇█
+wandb:     valid-ppl ▁▄▃█▅▅▄▅▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.81453
+wandb:     train-ppl 135202.71552
+wandb:    valid-loss 12.77783
+wandb:     valid-ppl 354273.91281
+wandb: 
+wandb: Synced hardy-mountain-133: https://wandb.ai/fengwd/nndl-news/runs/gfqnc8tv
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_135329-gfqnc8tv/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_143805-2zcc9i9p
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run denim-serenity-140
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2zcc9i9p
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▃▁▅▅▇▆▇█▆█
+wandb:     train-ppl ▃▁▄▅▇▆▆█▆█
+wandb:    valid-loss ▁▇▆▇▆▄▅▆██
+wandb:     valid-ppl ▁▆▅▇▄▃▃▅▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.32998
+wandb:     train-ppl 83281.60939
+wandb:    valid-loss 12.18632
+wandb:     valid-ppl 196089.1766
+wandb: 
+wandb: Synced light-music-135: https://wandb.ai/fengwd/nndl-news/runs/1tcgt9as
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_140438-1tcgt9as/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_145058-34u08ipe
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run floral-water-141
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/34u08ipe
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▆▆▇█▇█▅▁
+wandb:     train-ppl ▁▆▅▆▇█▆█▄▁
+wandb:    valid-loss ▅▅▄▆█▇▆▆▃▁
+wandb:     valid-ppl ▄▃▂▅█▆▄▅▂▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.76507
+wandb:     train-ppl 128677.69493
+wandb:    valid-loss 12.2879
+wandb:     valid-ppl 217053.61346
+wandb: 
+wandb: Synced light-pyramid-136: https://wandb.ai/fengwd/nndl-news/runs/3iouinag
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_140532-3iouinag/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_145212-20wd6uw4
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run valiant-disco-142
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/20wd6uw4
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▄▃▂▂▁▁▁
+wandb:     train-ppl █▃▃▃▂▂▁▁▁▁
+wandb:    valid-loss ▁▃▃▄▅▅▆██▇
+wandb:     valid-ppl ▁▂▃▃▄▄▅▇█▇
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 7.1035
+wandb:     train-ppl 1216.21926
+wandb:    valid-loss 9.36571
+wandb:     valid-ppl 11680.93827
+wandb: 
+wandb: Synced worldly-aardvark-137: https://wandb.ai/fengwd/nndl-news/runs/1uk84q0e
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_141430-1uk84q0e/logs
+wandb: Waiting for W&B process to finish... (success).
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_150102-7qqp3x89
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run tough-sun-143
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/7qqp3x89
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: | 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▆▇▇██▇▇
+wandb:     train-ppl ▁▁▁▂▄▄█▇▄▄
+wandb:    valid-loss ▁▁▃▅▆▆█▇██
+wandb:     valid-ppl ▁▁▁▁▁▁▄▂▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 25.22764
+wandb:     train-ppl 90412078686.61577
+wandb:    valid-loss 39.19009
+wandb:     valid-ppl 1.0472218570609482e+17
+wandb: 
+wandb: Synced feasible-firefly-138: https://wandb.ai/fengwd/nndl-news/runs/amkdtwg9
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_141436-amkdtwg9/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_150112-3jok4gz3
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run stellar-feather-144
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3jok4gz3
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: | 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: / 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▆▇▇██▇▇
+wandb:     train-ppl ▁▁▁▂▄▄█▇▄▄
+wandb:    valid-loss ▁▁▃▅▆▆█▇██
+wandb:     valid-ppl ▁▁▁▁▁▁▄▂▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 25.22764
+wandb:     train-ppl 90412078686.61577
+wandb:    valid-loss 39.19009
+wandb:     valid-ppl 1.0472218570609482e+17
+wandb: 
+wandb: Synced olive-spaceship-139: https://wandb.ai/fengwd/nndl-news/runs/16le1cr9
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_143647-16le1cr9/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_152340-3uwriy90
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run brisk-gorge-145
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3uwriy90
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.031 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: \ 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: | 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▆▇▇██▇▇
+wandb:     train-ppl ▁▁▁▂▄▄█▇▄▄
+wandb:    valid-loss ▁▁▃▅▆▆█▇██
+wandb:     valid-ppl ▁▁▁▁▁▁▄▂▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 25.22764
+wandb:     train-ppl 90412078686.61577
+wandb:    valid-loss 39.19009
+wandb:     valid-ppl 1.0472218570609482e+17
+wandb: 
+wandb: Synced denim-serenity-140: https://wandb.ai/fengwd/nndl-news/runs/2zcc9i9p
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_143805-2zcc9i9p/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_152459-29fzcazq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run faithful-snowflake-146
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/29fzcazq
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▆▇▇██▇▇
+wandb:     train-ppl ▁▁▁▂▄▄█▇▄▄
+wandb:    valid-loss ▁▁▃▅▆▆█▇██
+wandb:     valid-ppl ▁▁▁▁▁▁▄▂▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 25.22764
+wandb:     train-ppl 90412078686.61577
+wandb:    valid-loss 39.19009
+wandb:     valid-ppl 1.0472218570609482e+17
+wandb: 
+wandb: Synced floral-water-141: https://wandb.ai/fengwd/nndl-news/runs/34u08ipe
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_145058-34u08ipe/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_153807-2dzn1pxb
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fresh-eon-147
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2dzn1pxb
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.008 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: | 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: / 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▂▇▄▆██▇▁▂▅
+wandb:     train-ppl ▁▄▂▄▆█▄▁▁▂
+wandb:    valid-loss █▁▃▅▇▆▅▂▅▆
+wandb:     valid-ppl █▁▁▂▄▃▂▁▂▂
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 18.69374
+wandb:     train-ppl 131398245.85872
+wandb:    valid-loss 20.98826
+wandb:     valid-ppl 1303421960.13178
+wandb: 
+wandb: Synced valiant-disco-142: https://wandb.ai/fengwd/nndl-news/runs/20wd6uw4
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_145212-20wd6uw4/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_153922-39f0ob05
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dandy-snowflake-148
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/39f0ob05
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: | 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▆▄▅▇▇██▇▇
+wandb:     train-ppl ▁▂▁▁▄▆▆█▅▅
+wandb:    valid-loss ▃▃▁▂▅▄▅█▁█
+wandb:     valid-ppl ▁▁▁▁▁▁▂█▁▆
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 19.19707
+wandb:     train-ppl 217361841.87421
+wandb:    valid-loss 24.6042
+wandb:     valid-ppl 48469690602.32194
+wandb: 
+wandb: Synced brisk-gorge-145: https://wandb.ai/fengwd/nndl-news/runs/3uwriy90
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_152340-3uwriy90/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_161822-3jaz194y
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run sparkling-haze-149
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3jaz194y
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: \ 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: | 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▇▇██████
+wandb:     train-ppl ▁▅▄▅▇██▆▇█
+wandb:    valid-loss ▅▁▂▄▅█▇▆▆█
+wandb:     valid-ppl ▃▁▁▂▃█▆▄▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 18.86756
+wandb:     train-ppl 156342217.91979
+wandb:    valid-loss 22.01761
+wandb:     valid-ppl 3648605495.71975
+wandb: 
+wandb: Synced faithful-snowflake-146: https://wandb.ai/fengwd/nndl-news/runs/29fzcazq
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_152459-29fzcazq/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_161902-50ph9t0j
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run wobbly-moon-150
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/50ph9t0j
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▄▄▃▄▁▁▁▁
+wandb:     train-ppl █▃▃▃▃▃▁▁▁▁
+wandb:    valid-loss ▁▄▅▆█▂▃▃▆▄
+wandb:     valid-ppl ▁▄▄▅█▁▂▃▅▃
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 8.2055
+wandb:     train-ppl 3661.01933
+wandb:    valid-loss 9.59174
+wandb:     valid-ppl 14643.28322
+wandb: 
+wandb: Synced tough-sun-143: https://wandb.ai/fengwd/nndl-news/runs/7qqp3x89
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_150102-7qqp3x89/logs
+nohup: failed to run command '[Step]': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.038 MB uploaded (0.000 MB deduped)wandb: | 0.038 MB of 0.038 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▁▇█▇▆▅▄▄
+wandb:     train-ppl ▁▁▁▂█▃▁▁▁▁
+wandb:    valid-loss █▁▅▆▇▆▆▆▆▆
+wandb:     valid-ppl █▁▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 53.23516
+wandb:     train-ppl 1.317455407403756e+23
+wandb:    valid-loss 61.61152
+wandb:     valid-ppl 5.721917233427642e+26
+wandb: 
+wandb: Synced stellar-feather-144: https://wandb.ai/fengwd/nndl-news/runs/3jok4gz3
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_150112-3jok4gz3/logs
+nohup: failed to run command '[Step]': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: \ 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▄▆▇█████
+wandb:     train-ppl ▁▁▁▂▃▇█▆██
+wandb:    valid-loss ▆▁▁▃▆▅▃█▄▃
+wandb:     valid-ppl ▂▁▁▁▂▁▁█▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 24.98819
+wandb:     train-ppl 71159242966.52019
+wandb:    valid-loss 25.52403
+wandb:     valid-ppl 121603169501.41924
+wandb: 
+wandb: Synced fresh-eon-147: https://wandb.ai/fengwd/nndl-news/runs/2dzn1pxb
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_153807-2dzn1pxb/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_162407-lsaa0cmr
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run summer-wood-158
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/lsaa0cmr
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: \ 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: | 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▆▇████▇▇
+wandb:     train-ppl ▁▁▂▃█▆▇█▄▄
+wandb:    valid-loss ▁▂▃▅▆▆▇▇▇█
+wandb:     valid-ppl ▁▁▁▁▁▁▁▃▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 24.53153
+wandb:     train-ppl 45072176594.00304
+wandb:    valid-loss 37.19004
+wandb:     valid-ppl 1.4171988235437768e+16
+wandb: 
+wandb: Synced dandy-snowflake-148: https://wandb.ai/fengwd/nndl-news/runs/39f0ob05
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_153922-39f0ob05/logs
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_162443-2drfl9cv
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run different-dust-159
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2drfl9cv
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: \ 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: | 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▃▂▂▇████▇
+wandb:     train-ppl ▁▁▁▁▂█▅▆▄▂
+wandb:    valid-loss ▃▁▁▅███▇██
+wandb:     valid-ppl ▁▁▁▁▆█▇▂█▇
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 25.20693
+wandb:     train-ppl 88558776948.90833
+wandb:    valid-loss 30.0039
+wandb:     valid-ppl 10728239371887.9
+wandb: 
+wandb: Synced different-dust-159: https://wandb.ai/fengwd/nndl-news/runs/2drfl9cv
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_162443-2drfl9cv/logs
+nohup: failed to run command '[Step]': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.033 MB of 0.033 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▆▇█████
+wandb:     train-ppl ▁▁▁▂▄▆▇███
+wandb:    valid-loss ▁▁▂▃▄▆▅▆▆█
+wandb:     valid-ppl ▁▁▁▁▁▁▁▁▁█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 25.63338
+wandb:     train-ppl 135655084458.47879
+wandb:    valid-loss 44.39487
+wandb:     valid-ppl 1.9074150852507496e+19
+wandb: 
+wandb: Synced summer-wood-158: https://wandb.ai/fengwd/nndl-news/runs/lsaa0cmr
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_162407-lsaa0cmr/logs
+nohup: failed to run command '[Step]': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▆▇▇████
+wandb:     train-ppl ▁▁▁▁▂▃█▅▅▅
+wandb:    valid-loss ▆▆▁▂█▃▂▂▃▃
+wandb:     valid-ppl ▁▂▁▁█▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 38.44335
+wandb:     train-ppl 4.962880728543212e+16
+wandb:    valid-loss 36.09147
+wandb:     valid-ppl 4724181304067162.0
+wandb: 
+wandb: Synced wobbly-moon-150: https://wandb.ai/fengwd/nndl-news/runs/50ph9t0j
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_161902-50ph9t0j/logs
+wandb: Waiting for W&B process to finish... (success).
+nohup: failed to run command '[Step]': No such file or directory
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: | 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: / 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁█▇▆▅▆▆▅▅▅
+wandb:     train-ppl ▁█▅▄▃▄▃▃▃▃
+wandb:    valid-loss █▄▄▂▂▂▁▄▃▃
+wandb:     valid-ppl █▁▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 19.38886
+wandb:     train-ppl 263314777.52436
+wandb:    valid-loss 21.25231
+wandb:     valid-ppl 1697310104.72529
+wandb: 
+wandb: Synced sparkling-haze-149: https://wandb.ai/fengwd/nndl-news/runs/3jaz194y
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_161822-3jaz194y/logs
+nohup: failed to run command '[Step]': No such file or directory
+pp9runT.sh: 3: /: Permission denied
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171859-28jk7xzh
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run treasured-yogurt-204
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/28jk7xzh
+wandb: Tracking run with wandb version 0.13.5
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171859-d5acrw9t
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171859-25ej6mql
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run smooth-shape-205
+wandb: Syncing run glorious-spaceship-206
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/d5acrw9t
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/25ej6mql
+wandb: Tracking run with wandb version 0.13.5
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171859-3e9gtub6
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171859-47h2ms5m
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171859-3n9xnnqs
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run robust-grass-209
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/47h2ms5m
+wandb: Syncing run vocal-darkness-206
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3e9gtub6
+wandb: Syncing run honest-lake-208
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3n9xnnqs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_171903-1hhvnn2g
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run daily-water-210
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1hhvnn2g
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▃▃▂▂▂▁▁▁▁
+wandb:     train-ppl █▂▂▂▁▁▁▁▁▁
+wandb:    valid-loss ▁▁▂▂▂▄▅▆▆█
+wandb:     valid-ppl ▁▁▂▂▂▃▄▆▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.29666
+wandb:     train-ppl 542.75374
+wandb:    valid-loss 7.32485
+wandb:     valid-ppl 1517.543
+wandb: 
+wandb: Synced glorious-spaceship-206: https://wandb.ai/fengwd/nndl-news/runs/25ej6mql
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171859-25ej6mql/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_172645-2tl8fbhs
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run tough-star-215
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2tl8fbhs
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▄▃▃▂▂▁▁
+wandb:     train-ppl █▃▃▃▂▂▂▁▁▁
+wandb:    valid-loss ▁▂▃▄▃▄▅▇▇█
+wandb:     valid-ppl ▁▂▂▄▃▄▅▆▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 6.07338
+wandb:     train-ppl 434.14776
+wandb:    valid-loss 7.99952
+wandb:     valid-ppl 2979.52317
+wandb: 
+wandb: Synced daily-water-210: https://wandb.ai/fengwd/nndl-news/runs/1hhvnn2g
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171903-1hhvnn2g/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_172702-1e8c30ls
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run lively-galaxy-216
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1e8c30ls
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▇█▆▇████
+wandb:     train-ppl ▁▄▆█▅▇█▇██
+wandb:    valid-loss ▁▆▇▅▇▆▃█▆▆
+wandb:     valid-ppl ▁▅▆▄▆▆▃█▆▅
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 10.77986
+wandb:     train-ppl 48043.6235
+wandb:    valid-loss 10.93476
+wandb:     valid-ppl 56092.87592
+wandb: 
+wandb: Synced robust-grass-209: https://wandb.ai/fengwd/nndl-news/runs/47h2ms5m
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171859-47h2ms5m/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Waiting for W&B process to finish... (success).
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173026-2talpk0h
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run light-firefly-225
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2talpk0h
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▂▃▇▇▇▇▇██
+wandb:     train-ppl ▁▁▂▅▅▅▅▅▇█
+wandb:    valid-loss ▁▄▄▅▅▄▄▅██
+wandb:     valid-ppl ▁▂▂▃▂▂▂▂▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 12.14052
+wandb:     train-ppl 187310.38873
+wandb:    valid-loss 13.63349
+wandb:     valid-ppl 833582.13227
+wandb: 
+wandb: Synced treasured-yogurt-204: https://wandb.ai/fengwd/nndl-news/runs/28jk7xzh
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171859-28jk7xzh/logs
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▆▇█▇▇██▇
+wandb:     train-ppl ▁▃▅▇█▇▇█▇▇
+wandb:    valid-loss ▂▂▁▃▃▃▅▄▅█
+wandb:     valid-ppl ▂▁▁▂▂▂▄▂▄█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.98783
+wandb:     train-ppl 160786.45321
+wandb:    valid-loss 13.78131
+wandb:     valid-ppl 966379.79473
+wandb: 
+wandb: Synced honest-lake-208: https://wandb.ai/fengwd/nndl-news/runs/3n9xnnqs
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171859-3n9xnnqs/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Waiting for W&B process to finish... (success).
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173042-17pp8uk6
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run faithful-eon-226
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/17pp8uk6
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▂▂▁▁▁▁
+wandb:     train-ppl █▃▂▂▁▁▁▁▁▁
+wandb:    valid-loss ▁▂▃▄▅▆▇▇▇█
+wandb:     valid-ppl ▁▂▃▃▅▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.04799
+wandb:     train-ppl 423.26227
+wandb:    valid-loss 8.51907
+wandb:     valid-ppl 5009.38521
+wandb: 
+wandb: Synced smooth-shape-205: https://wandb.ai/fengwd/nndl-news/runs/d5acrw9t
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171859-d5acrw9t/logs
+wandb: Waiting for W&B process to finish... (success).
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: - 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173050-nsaah4nl
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fragrant-resonance-227
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/nsaah4nl
+wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▇▇▇█▇▇▇▇
+wandb:     train-ppl ▁▆▇▇▇█▇▇▇▇
+wandb:    valid-loss ▂▃▁▂▇▇█▆▆▆
+wandb:     valid-ppl ▁▂▁▂▇▆█▅▅▅
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.85524
+wandb:     train-ppl 140820.66785
+wandb:    valid-loss 12.7694
+wandb:     valid-ppl 351300.20077
+wandb: 
+wandb: Synced vocal-darkness-206: https://wandb.ai/fengwd/nndl-news/runs/3e9gtub6
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_171859-3e9gtub6/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173057-3bxrgj83
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fearless-sea-228
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3bxrgj83
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173102-2w5rsm6l
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run lively-water-229
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2w5rsm6l
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▂▂▂▁▁▁
+wandb:     train-ppl █▃▂▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▁▂▃▃▄▅▆▆█
+wandb:     valid-ppl ▁▁▁▃▃▄▄▅▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 6.10025
+wandb:     train-ppl 445.97059
+wandb:    valid-loss 7.43623
+wandb:     valid-ppl 1696.33879
+wandb: 
+wandb: Synced tough-star-215: https://wandb.ai/fengwd/nndl-news/runs/2tl8fbhs
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_172645-2tl8fbhs/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173422-16qjad0h
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run young-oath-232
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/16qjad0h
+wandb: Waiting for W&B process to finish... (success).
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.015 MB of 0.015 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▃▂▂▂▁▁▁
+wandb:     train-ppl █▃▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▂▃▄▅▆▆▇██
+wandb:     valid-ppl ▁▂▂▃▄▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 5.83198
+wandb:     train-ppl 341.03304
+wandb:    valid-loss 8.20725
+wandb:     valid-ppl 3667.43544
+wandb: 
+wandb: Synced fearless-sea-228: https://wandb.ai/fengwd/nndl-news/runs/3bxrgj83
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173057-3bxrgj83/logs
+wandb: - 0.006 MB of 0.027 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▄▃▂▂▂▁▁
+wandb:     train-ppl █▄▃▃▂▂▂▁▁▁
+wandb:    valid-loss ▁▄▄▄▄▅▆▇██
+wandb:     valid-ppl ▁▃▃▃▃▄▆▇██
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 6.31748
+wandb:     train-ppl 554.17652
+wandb:    valid-loss 8.19695
+wandb:     valid-ppl 3629.8512
+wandb: 
+wandb: Synced lively-galaxy-216: https://wandb.ai/fengwd/nndl-news/runs/1e8c30ls
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_172702-1e8c30ls/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173439-9ffnz80w
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run icy-terrain-234
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/9ffnz80w
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173441-qbqy7jzz
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run breezy-voice-235
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/qbqy7jzz
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: | 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)wandb: / 0.012 MB of 0.012 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▃▂▂▂▁▁▁
+wandb:     train-ppl █▃▂▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▂▃▄▅▅▆▇██
+wandb:     valid-ppl ▁▂▂▃▄▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 5.78038
+wandb:     train-ppl 323.88065
+wandb:    valid-loss 8.0902
+wandb:     valid-ppl 3262.3551
+wandb: 
+wandb: Synced icy-terrain-234: https://wandb.ai/fengwd/nndl-news/runs/9ffnz80w
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173439-9ffnz80w/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173649-szz5ze59
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run pious-sun-238
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/szz5ze59
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: | 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▄▃▂▂▁▁▁
+wandb:     train-ppl █▃▃▂▂▁▁▁▁▁
+wandb:    valid-loss ▁▂▂▃▄▅▆▇██
+wandb:     valid-ppl ▁▁▂▃▃▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 5.72819
+wandb:     train-ppl 307.41312
+wandb:    valid-loss 8.09067
+wandb:     valid-ppl 3263.87139
+wandb: 
+wandb: Synced pious-sun-238: https://wandb.ai/fengwd/nndl-news/runs/szz5ze59
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173649-szz5ze59/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173815-121d9uy9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run colorful-wildflower-239
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/121d9uy9
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: \ 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▅▃▂▂▂▁▁▁
+wandb:     train-ppl █▂▃▂▁▁▁▁▁▁
+wandb:    valid-loss ▄█▃▁▃▄▅▆▇▇
+wandb:     valid-ppl ▄█▃▁▃▃▅▆▇▇
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 5.96568
+wandb:     train-ppl 389.81874
+wandb:    valid-loss 7.73976
+wandb:     valid-ppl 2297.92064
+wandb: 
+wandb: Synced colorful-wildflower-239: https://wandb.ai/fengwd/nndl-news/runs/121d9uy9
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173815-121d9uy9/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_173918-23nwgl3f
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run pleasant-shape-240
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/23nwgl3f
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▂▂▂▂▁▁▁
+wandb:     train-ppl █▂▂▁▁▁▁▁▁▁
+wandb:    valid-loss ▇▁▃▄▅▆▆▇██
+wandb:     valid-ppl ▇▁▂▃▄▅▆▇▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 6.06196
+wandb:     train-ppl 429.21744
+wandb:    valid-loss 7.59423
+wandb:     valid-ppl 1986.70838
+wandb: 
+wandb: Synced pleasant-shape-240: https://wandb.ai/fengwd/nndl-news/runs/23nwgl3f
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173918-23nwgl3f/logs
+nohup: failed to run command 'Total': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁█▇▇▇▇▇▇██
+wandb:     train-ppl ▁█▇▆▇▇▇▇▇█
+wandb:    valid-loss ▁▅▄▆▆▃▆███
+wandb:     valid-ppl ▁▄▃▅▅▂▅█▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.99492
+wandb:     train-ppl 161930.3191
+wandb:    valid-loss 12.91689
+wandb:     valid-ppl 407132.57363
+wandb: 
+wandb: Synced light-firefly-225: https://wandb.ai/fengwd/nndl-news/runs/2talpk0h
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173026-2talpk0h/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_174124-7al8tkoc
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run noble-capybara-241
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/7al8tkoc
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▆▆▅▇▇▇██▇
+wandb:     train-ppl ▁▅▅▄▆▇▇██▇
+wandb:    valid-loss ▅▄▂▇▆█▁█▁▄
+wandb:     valid-ppl ▅▃▂▇▅█▁█▁▄
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 10.81155
+wandb:     train-ppl 49590.49954
+wandb:    valid-loss 10.9905
+wandb:     valid-ppl 59308.00493
+wandb: 
+wandb: Synced faithful-eon-226: https://wandb.ai/fengwd/nndl-news/runs/17pp8uk6
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173042-17pp8uk6/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_174145-1it735p5
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run hopeful-flower-242
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1it735p5
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: - 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅█▇█▇██▇▇
+wandb:     train-ppl ▁▄█▇▇▆█▇▅▆
+wandb:    valid-loss ▁█▆█▁█▆▃▅▆
+wandb:     valid-ppl ▁▇▆█▁█▅▂▄▆
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.1304
+wandb:     train-ppl 68213.51086
+wandb:    valid-loss 11.44178
+wandb:     valid-ppl 93132.61878
+wandb: 
+wandb: Synced fragrant-resonance-227: https://wandb.ai/fengwd/nndl-news/runs/nsaah4nl
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173050-nsaah4nl/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_174203-27vclw73
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run charmed-capybara-243
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/27vclw73
+wandb: Waiting for W&B process to finish... (success).
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▆▇▇██████
+wandb:     train-ppl ▁▅▇▇██▇█▇█
+wandb:    valid-loss ▃▃▁▃▄▅█▅█▆
+wandb:     valid-ppl ▂▂▁▂▃▄█▄█▅
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.92917
+wandb:     train-ppl 151626.36109
+wandb:    valid-loss 12.80593
+wandb:     valid-ppl 364371.5593
+wandb: 
+wandb: Synced lively-water-229: https://wandb.ai/fengwd/nndl-news/runs/2w5rsm6l
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173102-2w5rsm6l/logs
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: - 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▄▃▃▂▂▂▁▁
+wandb:     train-ppl █▃▃▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▂▃▄▄▅▆▆▇█
+wandb:     valid-ppl ▁▂▂▃▄▄▅▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0005
+wandb:    train-loss 5.86701
+wandb:     train-ppl 353.19154
+wandb:    valid-loss 7.71744
+wandb:     valid-ppl 2247.19149
+wandb: 
+wandb: Synced young-oath-232: https://wandb.ai/fengwd/nndl-news/runs/16qjad0h
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173422-16qjad0h/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_174226-39wtjzks
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run happy-energy-246
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/39wtjzks
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_174229-1u6yti6s
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run vital-glade-247
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1u6yti6s
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.027 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▄▃▂▂▂▁▁
+wandb:     train-ppl █▅▃▃▂▂▂▁▁▁
+wandb:    valid-loss ▁▅▃▄▅▅▇███
+wandb:     valid-ppl ▁▄▂▃▄▅▆██▇
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 6.76662
+wandb:     train-ppl 868.37072
+wandb:    valid-loss 8.57111
+wandb:     valid-ppl 5276.96389
+wandb: 
+wandb: Synced breezy-voice-235: https://wandb.ai/fengwd/nndl-news/runs/qbqy7jzz
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_173441-qbqy7jzz/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_174248-3cj6l1sw
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run true-smoke-248
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3cj6l1sw
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: / 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▅▄▃▂▂▂▂▁▁
+wandb:     train-ppl █▃▃▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▃▃▄▅▆▆▇▇█
+wandb:     valid-ppl ▁▂▂▃▄▅▅▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 5.77607
+wandb:     train-ppl 322.48792
+wandb:    valid-loss 8.33951
+wandb:     valid-ppl 4186.03608
+wandb: 
+wandb: Synced vital-glade-247: https://wandb.ai/fengwd/nndl-news/runs/1u6yti6s
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_174229-1u6yti6s/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_175224-3qr13whf
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run denim-pyramid-251
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3qr13whf
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: Waiting for W&B process to finish... (success).
+wandb: \ 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▆█████▇██
+wandb:     train-ppl ▁▅████▇▇▇▇
+wandb:    valid-loss ▁▄▅▄▆▇█▇▇▅
+wandb:     valid-ppl ▁▂▄▃▅▆█▆▇▄
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 11.36915
+wandb:     train-ppl 86608.37303
+wandb:    valid-loss 12.69895
+wandb:     valid-ppl 327404.83056
+wandb: 
+wandb: Synced true-smoke-248: https://wandb.ai/fengwd/nndl-news/runs/3cj6l1sw
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_174248-3cj6l1sw/logs
+wandb: - 0.006 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: \ 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▆▆█▆▅▅▅▃
+wandb:     train-ppl ▁▇▅▅█▅▄▄▃▂
+wandb:    valid-loss █▆▄▁▄▆▄▆▃▁
+wandb:     valid-ppl █▄▂▁▂▅▂▅▂▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 12.96016
+wandb:     train-ppl 425135.22005
+wandb:    valid-loss 13.02457
+wandb:     valid-ppl 453420.30119
+wandb: 
+wandb: Synced noble-capybara-241: https://wandb.ai/fengwd/nndl-news/runs/7al8tkoc
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_174124-7al8tkoc/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_175245-14uly1rx
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run likely-capybara-252
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/14uly1rx
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_175248-vnfo9opq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run azure-monkey-253
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/vnfo9opq
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▆▇▇▆████
+wandb:     train-ppl ▁▆▅▇▆▅██▇▇
+wandb:    valid-loss ▄▂▁▅▆▆▄▇▆█
+wandb:     valid-ppl ▃▂▁▄▅▅▃▆▅█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 12.58396
+wandb:     train-ppl 291838.72776
+wandb:    valid-loss 13.48071
+wandb:     valid-ppl 715480.30762
+wandb: 
+wandb: Synced hopeful-flower-242: https://wandb.ai/fengwd/nndl-news/runs/1it735p5
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_174145-1it735p5/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_175325-2isrfh2i
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run vague-dream-255
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2isrfh2i
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.007 MB uploaded (0.000 MB deduped)wandb: | 0.007 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇████████
+wandb:     train-ppl ▁▇█▇▇▇█▇▇▇
+wandb:    valid-loss ▁▄▂▄▅▆██▇▇
+wandb:     valid-ppl ▁▃▁▃▃▅█▇▅▆
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.96412
+wandb:     train-ppl 157019.06862
+wandb:    valid-loss 13.77106
+wandb:     valid-ppl 956526.41934
+wandb: 
+wandb: Synced charmed-capybara-243: https://wandb.ai/fengwd/nndl-news/runs/27vclw73
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_174203-27vclw73/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_175357-2mvb0rlc
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run comfy-wave-257
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/2mvb0rlc
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: | 0.006 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: / 0.029 MB of 0.029 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▇▇██████
+wandb:     train-ppl ▁▆▆▇██▇███
+wandb:    valid-loss ▄▃▁▄▅▅█▅▇▆
+wandb:     valid-ppl ▃▂▁▃▄▃█▄▆▅
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.005
+wandb:    train-loss 11.96748
+wandb:     train-ppl 157546.37025
+wandb:    valid-loss 12.81941
+wandb:     valid-ppl 369315.81218
+wandb: 
+wandb: Synced happy-energy-246: https://wandb.ai/fengwd/nndl-news/runs/39wtjzks
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_174226-39wtjzks/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_175436-3vd5cq95
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run leafy-wildflower-258
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3vd5cq95
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▄▃▂▂▂▁▁▁
+wandb:     train-ppl █▃▃▂▂▂▁▁▁▁
+wandb:    valid-loss ▁▃▄▅▅▆▆▇▇█
+wandb:     valid-ppl ▁▂▃▄▄▅▆▆▇█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 6.17181
+wandb:     train-ppl 479.05138
+wandb:    valid-loss 8.76069
+wandb:     valid-ppl 6378.53922
+wandb: 
+wandb: Synced denim-pyramid-251: https://wandb.ai/fengwd/nndl-news/runs/3qr13whf
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_175224-3qr13whf/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_180512-1l4ofsrf
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run misunderstood-durian-261
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1l4ofsrf
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: | 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▇▇█████
+wandb:     train-ppl ▁▂▂▄▅▇▇▆██
+wandb:    valid-loss ▂▁▄▅▇▅▇█▇█
+wandb:     valid-ppl ▁▁▁▁▂▁▃▅▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 21.01083
+wandb:     train-ppl 1333180629.61856
+wandb:    valid-loss 28.56288
+wandb:     valid-ppl 2539235619459.842
+wandb: 
+wandb: Synced likely-capybara-252: https://wandb.ai/fengwd/nndl-news/runs/14uly1rx
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_175245-14uly1rx/logs
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.031 MB uploaded (0.000 MB deduped)[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: \ 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: | 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▇▇█████
+wandb:     train-ppl ▁▂▂▄▅▇▇▆██
+wandb:    valid-loss ▂▁▄▅▇▅▇█▇█
+wandb:     valid-ppl ▁▁▁▁▂▁▃▅▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 21.01083
+wandb:     train-ppl 1333180629.61856
+wandb:    valid-loss 28.56288
+wandb:     valid-ppl 2539235619459.842
+wandb: 
+wandb: Synced azure-monkey-253: https://wandb.ai/fengwd/nndl-news/runs/vnfo9opq
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_175248-vnfo9opq/logs
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_180531-1kxw5fva
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run crisp-dew-262
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1kxw5fva
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_180539-1aqytfpk
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run chocolate-terrain-263
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1aqytfpk
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: | 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▇▇█████
+wandb:     train-ppl ▁▂▂▄▅▇▇▆██
+wandb:    valid-loss ▂▁▄▅▇▅▇█▇█
+wandb:     valid-ppl ▁▁▁▁▂▁▃▅▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 21.01083
+wandb:     train-ppl 1333180629.61856
+wandb:    valid-loss 28.56288
+wandb:     valid-ppl 2539235619459.842
+wandb: 
+wandb: Synced vague-dream-255: https://wandb.ai/fengwd/nndl-news/runs/2isrfh2i
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_175325-2isrfh2i/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_180617-3mp74zh1
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dry-morning-264
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3mp74zh1
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: | 0.031 MB of 0.031 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▅▇▇█████
+wandb:     train-ppl ▁▂▂▄▅▇▇▆██
+wandb:    valid-loss ▂▁▄▅▇▅▇█▇█
+wandb:     valid-ppl ▁▁▁▁▂▁▃▅▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 21.01083
+wandb:     train-ppl 1333180629.61856
+wandb:    valid-loss 28.56288
+wandb:     valid-ppl 2539235619459.842
+wandb: 
+wandb: Synced comfy-wave-257: https://wandb.ai/fengwd/nndl-news/runs/2mvb0rlc
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_175357-2mvb0rlc/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_180642-3gq7t1c9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run icy-fog-265
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3gq7t1c9
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▅▇▇██▇▇▇
+wandb:     train-ppl ▁▂▂▄▄▇█▆▅▄
+wandb:    valid-loss ▂▁▃▄▅▇▆██▇
+wandb:     valid-ppl ▁▁▁▁▁▂▁█▇▄
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 20.96645
+wandb:     train-ppl 1275306163.75594
+wandb:    valid-loss 31.11947
+wandb:     valid-ppl 32735173161460.348
+wandb: 
+wandb: Synced leafy-wildflower-258: https://wandb.ai/fengwd/nndl-news/runs/3vd5cq95
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_175436-3vd5cq95/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_180726-25abe1td
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fresh-grass-267
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/25abe1td
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: | 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: / 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▃▇▆▅███▇▅▁
+wandb:     train-ppl ▁▄▂▁██▆▄▁▁
+wandb:    valid-loss ▆█▅▇▇▇▆▅▁▂
+wandb:     valid-ppl ▂█▁▄▅▄▂▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 11.23568
+wandb:     train-ppl 75786.84378
+wandb:    valid-loss 13.78559
+wandb:     valid-ppl 970525.4162
+wandb: 
+wandb: Synced chocolate-terrain-263: https://wandb.ai/fengwd/nndl-news/runs/1aqytfpk
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_180539-1aqytfpk/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_181955-314wx1xq
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run deft-lion-271
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/314wx1xq
+wandb: Waiting for W&B process to finish... (success).
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▆█▇███▇█
+wandb:     train-ppl ▁▁▂▆▅███▆▇
+wandb:    valid-loss ▁▄▄▃▄▄▆▅▇█
+wandb:     valid-ppl ▁▂▂▁▂▂▄▃▆█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 18.12694
+wandb:     train-ppl 74546742.44885
+wandb:    valid-loss 20.00366
+wandb:     valid-ppl 486945848.94625
+wandb: 
+wandb: Synced icy-fog-265: https://wandb.ai/fengwd/nndl-news/runs/3gq7t1c9
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_180642-3gq7t1c9/logs
+wandb: - 0.006 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: \ 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: | 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▃█▅▃▂▁▂▃▃▃
+wandb:     train-ppl ▂█▃▂▁▁▁▁▂▂
+wandb:    valid-loss █▅▂▂▁▃▁▁▃▃
+wandb:     valid-ppl █▂▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 16.52112
+wandb:     train-ppl 14963395.91828
+wandb:    valid-loss 17.77035
+wandb:     valid-ppl 52187109.78074
+wandb: 
+wandb: Synced dry-morning-264: https://wandb.ai/fengwd/nndl-news/runs/3mp74zh1
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_180617-3mp74zh1/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_182012-4o5w15tg
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fluent-dust-272
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/4o5w15tg
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_182014-1gcpli5q
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run confused-serenity-273
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/1gcpli5q
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▆▇█████▇
+wandb:     train-ppl ▁▂▃▅▆██▇▇▅
+wandb:    valid-loss ▁▂▂▄▅▆▇▇▇█
+wandb:     valid-ppl ▁▁▁▁▁▁▂▂▃█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 20.52015
+wandb:     train-ppl 816179781.16025
+wandb:    valid-loss 29.41496
+wandb:     valid-ppl 5953233604994.568
+wandb: 
+wandb: Synced fresh-grass-267: https://wandb.ai/fengwd/nndl-news/runs/25abe1td
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_180726-25abe1td/logs
+[nltk_data] Downloading package punkt to /home/w/weidong/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+wandb: Currently logged in as: fengwd. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.13.5
+wandb: Run data is saved locally in /home/w/weidong/nndlnews/files/rnn/wandb/run-20221115_182037-3mjm2yri
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run copper-frog-274
+wandb: ⭐️ View project at https://wandb.ai/fengwd/nndl-news
+wandb: 🚀 View run at https://wandb.ai/fengwd/nndl-news/runs/3mjm2yri
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: | 0.028 MB of 0.028 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss █▄▃▂▃▆▇▂▁▁
+wandb:     train-ppl █▃▂▂▂▆▆▂▁▁
+wandb:    valid-loss ▁▃▆▆▆█▅▆▅█
+wandb:     valid-ppl ▁▂▅▄▅█▄▅▄█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.0009
+wandb:    train-loss 7.27896
+wandb:     train-ppl 1449.48226
+wandb:    valid-loss 9.17736
+wandb:     valid-ppl 9675.53747
+wandb: 
+wandb: Synced misunderstood-durian-261: https://wandb.ai/fengwd/nndl-news/runs/1l4ofsrf
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_180512-1l4ofsrf/logs
+nohup: failed to run command 'Total': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.036 MB uploaded (0.000 MB deduped)wandb: | 0.036 MB of 0.036 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▇▇███▇▇▇▇
+wandb:     train-ppl ▁▄▃▅█▅▃▃▄▄
+wandb:    valid-loss ▇▁▅▅▅▅▇▇▇█
+wandb:     valid-ppl ▄▁▁▁▁▁▄▂▂█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 42.91773
+wandb:     train-ppl 4.354461028311506e+18
+wandb:    valid-loss 56.20666
+wandb:     valid-ppl 2.571834979144909e+24
+wandb: 
+wandb: Synced crisp-dew-262: https://wandb.ai/fengwd/nndl-news/runs/1kxw5fva
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_180531-1kxw5fva/logs
+nohup: failed to run command 'Total': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: | 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: / 0.032 MB of 0.032 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▅▆▇▇████▇
+wandb:     train-ppl ▁▂▂▄▅█▇▆▆▄
+wandb:    valid-loss ▁▁▃▄▆▇▇█▇█
+wandb:     valid-ppl ▁▁▁▁▁▂▂▇▄█
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 20.5327
+wandb:     train-ppl 826491967.67206
+wandb:    valid-loss 30.08924
+wandb:     valid-ppl 11683925447546.63
+wandb: 
+wandb: Synced copper-frog-274: https://wandb.ai/fengwd/nndl-news/runs/3mjm2yri
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_182037-3mjm2yri/logs
+wandb: | 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▄▆▁▅▆▇▇▇██
+wandb:     train-ppl ▁▂▁▂▂▄▄▆▇█
+wandb:    valid-loss ▆▁▃▃▃▄▆▆█▇
+wandb:     valid-ppl ▂▁▁▁▁▁▂▂█▃
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 18.93292
+wandb:     train-ppl 166902786.61333
+wandb:    valid-loss 20.62812
+wandb:     valid-ppl 909236985.73462
+wandb: 
+wandb: Synced fluent-dust-272: https://wandb.ai/fengwd/nndl-news/runs/4o5w15tg
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_182012-4o5w15tg/logs
+nohup: failed to run command 'Total': No such file or directory
+nohup: failed to run command 'Total': No such file or directory
+wandb: Waiting for W&B process to finish... (success).
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.006 MB of 0.006 MB uploaded (0.000 MB deduped)wandb: \ 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: | 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: / 0.030 MB of 0.030 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▄▆██▆▆▂▂▂
+wandb:     train-ppl ▁▁▂▅█▂▂▁▁▁
+wandb:    valid-loss ▁▃▅▆█▅▅▆▁▇
+wandb:     valid-ppl ▁▁▁▂█▁▁▂▁▄
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 13.43965
+wandb:     train-ppl 686696.87556
+wandb:    valid-loss 21.06611
+wandb:     valid-ppl 1408953545.97426
+wandb: 
+wandb: Synced deft-lion-271: https://wandb.ai/fengwd/nndl-news/runs/314wx1xq
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_181955-314wx1xq/logs
+nohup: failed to run command 'Total': No such file or directory
+wandb: 
+wandb: Run history:
+wandb:         epoch ▁▂▃▃▄▅▆▆▇█
+wandb: learning-rate ▁▁▁▁▁▁▁▁▁▁
+wandb:    train-loss ▁▆▇▇▇▇▇█▇▇
+wandb:     train-ppl ▁▁▂▂▄▄▄█▃▂
+wandb:    valid-loss ▇▁▃▄▄▃█▅▆▃
+wandb:     valid-ppl ▂▁▁▁▁▁█▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:         epoch 9
+wandb: learning-rate 0.009
+wandb:    train-loss 28.29796
+wandb:     train-ppl 1948257042371.8213
+wandb:    valid-loss 32.9572
+wandb:     valid-ppl 205650814544215.03
+wandb: 
+wandb: Synced confused-serenity-273: https://wandb.ai/fengwd/nndl-news/runs/1gcpli5q
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20221115_182014-1gcpli5q/logs
+nohup: failed to run command 'Total': No such file or directory
