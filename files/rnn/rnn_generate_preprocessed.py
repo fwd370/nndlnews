@@ -471,5 +471,5 @@ if __name__ == "__main__":
     if USE_WANDB:
         import wandb
 
-        wandb.init(project='nndl-news', config={'algo': 'VRNN', 'direction': 'Uni', **kwargs})
+        wandb.init(project='nndl-news', config={'algo': 'VRNN_PP', 'direction': 'Uni', **kwargs})
     main(**kwargs)
