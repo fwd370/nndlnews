@@ -425,6 +425,102 @@
             "valid_ppl": "1632.200",
             "runID": 617,
             "runtime": "0:16:56"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:05"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:02"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:15:47"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:15:49"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:47"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:29"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:15:39"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:15:38"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:31:53"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:31:54"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:12:15"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:12:39"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:14:18"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:14:37"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:04:53"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:00:12"
         }
     ]
 }
