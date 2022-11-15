@@ -17,6 +17,7 @@ import json
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 USE_WANDB = True
 
+USE_WANDB = True
 
 def read_data(file='Data.csv'):
     word2index = {}
@@ -431,5 +432,5 @@ if __name__ == "__main__":
     if USE_WANDB:
         import wandb
 
-        wandb.init(project='nndl-news', config={'algo': 'LSTM', 'direction': 'Uni', **kwargs})
+        wandb.init(project='nndl-news', config={'algo': 'VRNN', 'direction': 'Uni', **kwargs})
     main(**kwargs)
