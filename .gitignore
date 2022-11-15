@@ -7,3 +7,4 @@ pyvenv.cfg
 /files/*/wandb/*
 /files/*/nohup.out
 .ipynb_checkpoints/*
+today_STATIC_URL.csv
