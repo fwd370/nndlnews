@@ -509,6 +509,30 @@
             "valid_ppl": "1489.384",
             "runID": 116,
             "runtime": "0:26:02"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:11:09"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:11:37"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:13:24"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:12:48"
         }
     ]
 }

@@ -377,6 +377,54 @@
             "valid_ppl": "1632.200",
             "runID": 617,
             "runtime": "0:17:15"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:12:24"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:12:25"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:06"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:11"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:38"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:41"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:55"
+        },
+        {
+            "valid_loss": "7.398",
+            "valid_ppl": "1632.200",
+            "runID": 617,
+            "runtime": "0:16:56"
         }
     ]
 }
