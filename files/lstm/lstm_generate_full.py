@@ -19,7 +19,7 @@ import argparse
 import json
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-USE_WANDB = True
+USE_WANDB = False
 BOS_token = 0
 EOS_token = 1
 UNK_token = 2
@@ -79,8 +79,8 @@ def read_data(n_truncate: int, file='fullData.csv'):
             vocab.addToVocab(text)
             vocab.addToVocab(title)
 
-        contents.append(vocab.convertSentenceToIndex(text))
-        summarys.append(vocab.convertSentenceToIndex(title))
+            contents.append(vocab.convertSentenceToIndex(text))
+            summarys.append(vocab.convertSentenceToIndex(title))
 
     return contents, summarys, vocab.word2index, vocab.index2word
 

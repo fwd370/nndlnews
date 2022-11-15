@@ -82,8 +82,8 @@ def read_data(n_truncate: int, file='fullData.csv'):
             vocab.addToVocab(text)
             vocab.addToVocab(title)
         
-        contents.append(vocab.convertSentenceToIndex(text))
-        summarys.append(vocab.convertSentenceToIndex(title))
+            contents.append(vocab.convertSentenceToIndex(text))
+            summarys.append(vocab.convertSentenceToIndex(title))
 
     return contents, summarys, vocab.word2index, vocab.index2word
 
