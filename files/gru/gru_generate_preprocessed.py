@@ -19,7 +19,7 @@ import argparse
 import json
 
 USE_WANDB = True
-SOS_token = 0
+BOS_token = 0
 EOS_token = 1
 UNK_token = 2
 PAD_token = 3
@@ -29,9 +29,9 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 class Vocabulary:
     def __init__(self):
-        self.word2index = {"<SOS>":0,"<EOS>":1,"<UNK>":2,"<PAD>":3}
+        self.word2index = {"BOS":0,"EOS":1,"UNK":2,"PAD":3}
         self.word2count = {}
-        self.index2word = {0:"<SOS>",1:"<EOS>",2:"<UNK>",3:"<PAD>"}
+        self.index2word = {0:"BOS",1:"EOS",2:"UNK",3:"PAD"}
         self.n_words = 4 #Start count with "SOS", "EOS", UNK, PAD
 
     def addToVocab(self, sentence: str):
@@ -420,7 +420,7 @@ def main(LR,N_EPOCHS, runID,HID_DIM,N_LAYERS,ENC_EMB_DIM, DEC_EMB_DIM,ENC_DROPOU
         
         if valid_loss < best_valid_loss:
             best_valid_loss = valid_loss
-            torch.save(model.state_dict(), 'gru_model.pt')
+            torch.save(model.state_dict(), 'preprocessed_gru_model.pt')
             curr_data['valid_loss'] = f'{best_valid_loss:.3f}'
             curr_data['valid_ppl'] = f'{math.exp(best_valid_loss):7.3f}'
             curr_data['runID'] = runID
