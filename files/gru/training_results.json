@@ -281,6 +281,126 @@
             "valid_ppl": "2728.981",
             "runID": 1,
             "runtime": "0:04:01"
+        },
+        {
+            "valid_loss": "7.849",
+            "valid_ppl": "2564.041",
+            "runID": 110,
+            "runtime": "0:07:32"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:07:33"
+        },
+        {
+            "valid_loss": "7.912",
+            "valid_ppl": "2728.981",
+            "runID": 1,
+            "runtime": "0:12:42"
+        },
+        {
+            "valid_loss": "7.912",
+            "valid_ppl": "2728.981",
+            "runID": 1,
+            "runtime": "0:13:12"
+        },
+        {
+            "valid_loss": "7.912",
+            "valid_ppl": "2728.981",
+            "runID": 1,
+            "runtime": "0:13:27"
+        },
+        {
+            "valid_loss": "7.912",
+            "valid_ppl": "2728.981",
+            "runID": 1,
+            "runtime": "0:13:40"
+        },
+        {
+            "valid_loss": "7.912",
+            "valid_ppl": "2728.981",
+            "runID": 1,
+            "runtime": "0:13:41"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:07:33"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:07:31"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:03:56"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:02:21"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:01:24"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:00:58"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:08:44"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:08:47"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:00:34"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:12:32"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:12:45"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:13:19"
+        },
+        {
+            "valid_loss": "7.306",
+            "valid_ppl": "1489.384",
+            "runID": 116,
+            "runtime": "0:13:08"
         }
     ]
 }
