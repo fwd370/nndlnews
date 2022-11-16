@@ -701,6 +701,66 @@
             "valid_ppl": "1716.727",
             "runID": 1216,
             "runtime": "0:31:57"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:36:37"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:36:07"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:33:30"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:33:26"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:55:42"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:55:17"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:28:01"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:26:21"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:32:21"
+        },
+        {
+            "valid_loss": "7.448",
+            "valid_ppl": "1716.727",
+            "runID": 1216,
+            "runtime": "0:33:55"
         }
     ]
 }

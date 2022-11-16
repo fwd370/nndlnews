@@ -701,6 +701,78 @@
             "valid_ppl": "1627.602",
             "runID": 645,
             "runtime": "0:33:18"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:33:33"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:33:40"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:37:30"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:37:01"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:34:43"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:34:10"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "1:10:26"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "1:10:21"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:23:55"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:25:05"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:29:06"
+        },
+        {
+            "valid_loss": "7.395",
+            "valid_ppl": "1627.602",
+            "runID": 645,
+            "runtime": "0:30:14"
         }
     ]
 }
