@@ -8,3 +8,5 @@ pyvenv.cfg
 /files/*/nohup.out
 .ipynb_checkpoints/*
 today_STATIC_URL.csv
+RNNForNewsTitlePrediction.pptx
+files/.DS_Store
